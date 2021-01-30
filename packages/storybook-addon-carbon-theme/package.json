@@ -45,7 +45,7 @@
     "@storybook/client-logger": "5.3.19",
     "@storybook/components": "5.3.19",
     "@storybook/core-events": "5.3.19",
-    "@storybook/theming": "5.3.19",
+    "@storybook/theming": "6.1.15",
     "core-js": "^3.0.1",
     "global": "^4.3.2"
   },
